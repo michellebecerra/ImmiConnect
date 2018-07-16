@@ -20,5 +20,6 @@ information on this person the last column "more information" is the url to thei
 
 Example csv when looking up William Smith:
 
-![alt text](https://raw.githubusercontent.com/michellebecerra/ImmiConnect/master/search_result2.png)
+![csv picture](https://raw.githubusercontent.com/michellebecerra/ImmiConnect/master/search_results2.csv)
+
 
