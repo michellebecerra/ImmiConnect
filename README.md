@@ -1,7 +1,7 @@
 # ImmiConnect 
 
 Script to scrape the search information off the California Bar website. 
-Used to verify if an attorney is an active attorney or not. Search by first and last name
+Used to verify if an attorney is an active attorney or not. Search by first and last name.
 
 ## Dependencies
 - Install Python 2.7
@@ -21,7 +21,7 @@ python calif.py  "attorney name"  name of csv file
 ```
 Here we are searching for William Smith and the results would be stored in search_results2.csv which can be opened with microsoft excel.
 
-The csv file containes the Name of the attorney, the status of the attorney (active), the bar number, city and admission date. To get more
+The csv file contains the name of the attorney, the status of the attorney (active), the bar number, city and admission date. To get more
 information on this person the last column "more information" is the url to their profile on the California Bar website. 
 
 Example csv when looking up William Smith:
