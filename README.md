@@ -14,7 +14,7 @@ To run just go to the directory of the calif.py script
 and specify the name you would like to search and the name of the directory of filename (if same directory) of the csv.
 Then on your termial type the command:
 
-python calif.py  <attorney name>  <name of csv file>
+python calif.py  "attorney name"  name of csv file
   
 ```
 >> python calif.py "William Smith" search_results2.csv
